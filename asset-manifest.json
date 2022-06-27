@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Resume-Uploader/static/js/main.a2016402.js",
+    "index.html": "/Resume-Uploader/index.html",
+    "main.a2016402.js.map": "/Resume-Uploader/static/js/main.a2016402.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a2016402.js"
+  ]
+}
